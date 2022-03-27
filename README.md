@@ -1,1 +1,1 @@
-# leftslash.gihub.io
+# pkg.leftslash.com
